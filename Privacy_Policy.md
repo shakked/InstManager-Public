@@ -45,7 +45,7 @@ We are concerned about safeguarding the confidentiality of your information. We 
 
 ##Changes
 
-You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by clicking here https://github.com/shakked/InstManager/edit/master/Privacy_Policy.md
+You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by clicking here https://github.com/shakked/InstManager-Public/commits/master
 
 ##Your Consent
 By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards. 
