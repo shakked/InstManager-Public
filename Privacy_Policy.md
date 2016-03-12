@@ -1,5 +1,3 @@
-# InstManager-Public
-Public repository for InstManager
 #Privacy Policy
 
 This policy is effective March 12th, 2016
