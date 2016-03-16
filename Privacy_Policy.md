@@ -1,7 +1,7 @@
 #Privacy Policy
 
 This policy is effective March 12th, 2016
-Last revised: March 12th, 2016
+Last revised: March 15th, 2016
 
 This privacy policy governs your use of the software application **Manager for Instagram** for mobile devices that was created by Zachary Shakked.
 
